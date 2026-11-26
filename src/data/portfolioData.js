@@ -7,8 +7,8 @@ export const PROFILE = {
     'Full-Stack Engineer with 2 years of operational product support experience, specializing in Python, Django REST Framework, React, and LangGraph/RAG AI Agent architectures.',
   currentRole: 'Product Support Executive (2 Years)',
   targetRoles: ['Full-Stack Developer (Django/React)', 'Generative AI / LLM Engineer'],
-  email: 'sugumaran.dev@example.com',
-  githubUrl: 'https://github.com/sugumaran-dev',
+  email: 'sugumaran.rc.0107@gmail.com',
+  githubUrl: 'https://github.com/R-C-MARAN',
   linkedinUrl: 'https://linkedin.com/in/sugumaran-dev',
   formspreeEndpoint: 'https://formspree.io/f/your-form-id',
 };
